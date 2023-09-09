@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.height{
+  height: 100vh !important;
+}
+.width{
+  width: 100vw !important;
+}
